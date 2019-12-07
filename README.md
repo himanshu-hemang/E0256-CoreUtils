@@ -15,7 +15,7 @@ rusttail :
 
 
 To use
-rusttr :
+rusttr : \n
 	1. Download the rusttr.zip file, and extract it on local machine.
 	2. Enter into the directory rusttr.
 	3. To run the command open the terminal with current working directory as 'rusttr'
