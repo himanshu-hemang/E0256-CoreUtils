@@ -5,12 +5,12 @@ To install rust follow the link:- https://www.rust-lang.org/tools/install<br />
 
 To use<br /> 
 rusttail :<br />
-	1. Download the rusttail.zip file, and extract it on local machine.<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Download the rusttail.zip file, and extract it on local machine.<br />
 	2. Enter into the directory rusttail.<br />
 	3. To run the command open the terminal with current working directory as 'rusttail'<br />
 	4. Run command as: ./rusttail [file_name] [options].<br />
 	5. Supported options: $./rusttail [file_name] -f  <br />
-                        $./rusttail [file_name] -F<br />
+	$./rusttail [file_name] -F<br />
                         $./rusttail [file_name] -n [int]<br />
 			$-v<br />
 			or you can use $./rusttail -h command to explore other options. <br />
