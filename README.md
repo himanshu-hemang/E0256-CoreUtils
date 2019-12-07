@@ -5,8 +5,8 @@ To install rust follow the link:- https://www.rust-lang.org/tools/install
 
 To use  
 rusttail :
-	1. Download the rusttail.zip file, and extract it on local machine.
-	2. Enter into the directory rusttail.
+	1. Download the rusttail.zip file, and extract it on local machine. "\n"
+	2. Enter into the directory rusttail. \n
 	3. To run the command open the terminal with current working directory as 'rusttail'
 	4. Run command as: ./rusttail [file_name] [options].
 	5. Supported options: ./rusttail [file_name] -f  
