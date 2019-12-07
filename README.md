@@ -25,7 +25,7 @@ rusttr : <br />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Supported options:<br />
                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$./rusttr -s '\n' < [file_name]<br />
                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$./rusttr -d '\r' < [file_name]<br />
-                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$./rusttr -cd '[:alnum:]' < [file_name]<br />
+                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$./rusttr -cd '[:alnum:]' < [file_name]<br />
 
 
 
